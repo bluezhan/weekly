@@ -51,9 +51,9 @@ H5生态（单页面、H5媒体推广）
   __4、有关算法__     
       
   [十大经典排序算法](http://web.jobbole.com/87968/)    
-  [15道简单算法题](http://blog.jobbole.com/70599/)
-          
-   __5、产品&设计__       
+  [15道简单算法题](http://blog.jobbole.com/70599/)  
+     
+   __5、产品&设计__        
           
   [人人都是产品经理](http://www.woshipm.com)         
   [设计师晋级之路](https://zhuanlan.zhihu.com/Sevendesign)              
