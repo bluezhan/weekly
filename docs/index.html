@@ -12,9 +12,15 @@
 </body>
 <script>
   window.$docsify = {
-    name: '',
-    repo: ''
+    basePath: "/path/",
+    name: '《每周一专题》',
+    repo: 'http://bluezhan.me',
+    auto2top: true,
+    homepage: 'home.md',
+    loadSidebar: true
   }
 </script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js" data-sidebar-toggle>
+  // data-sidebar="sidebar"
+</script>
 </html>
