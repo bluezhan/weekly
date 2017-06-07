@@ -15,8 +15,12 @@
   <div data-app id="app"></div>
 </body>
 <script>
+  var _basePath = '';
+  if (window.location.hostname == "bluezhan.me") {
+    _basePath = 'http://bluezhan.me/weeky';
+  }
   window.$docsify = {
-    basePath: "http://bluezhan.me/weeky/path/",
+    basePath: _basePath+'/path/',
     name: '《每周一专题》',
     repo: 'http://bluezhan.me',
     auto2top: true,
