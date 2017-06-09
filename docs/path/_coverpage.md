@@ -10,4 +10,4 @@
 - -总之不按套路出牌来玩
 
 [Bluezhan](http://bluezhan.me/)
-[Get Started](/?id=fighting)
+[Get Started](/?id=main)

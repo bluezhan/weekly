@@ -1,4 +1,3 @@
-###### fighting
 
 ![](https://github.com/bluezhan/weeky/raw/master/images/logo.png)
 
