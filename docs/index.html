@@ -29,6 +29,10 @@
     homepage: 'home.md',
     loadSidebar: true
   }
+  // PWA
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js" data-sidebar-toggle>
 </script>
