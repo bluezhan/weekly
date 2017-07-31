@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/bluezhan/weeky/raw/master/docs/img/wlogo.png)
 
-# 《每周一专题》<small>3.2.7</small>
+# 《每周一专题》<small>3.27</small>
 
 > 每周推出一个专题，专注`JavaScript`相关及周边技术！
 
