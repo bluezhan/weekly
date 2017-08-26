@@ -2,6 +2,14 @@
 
 ![](https://github.com/bluezhan/weeky/raw/master/images/logo.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
+  <img src="https://img.shields.io/badge/weekly-whale-orange.svg">
+  <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
+  <img src="https://img.shields.io/badge/newweekly-8-ff69b4.svg">
+  <img src="https://img.shields.io/badge/web-better-42B983.svg">
+</p>
+
 ----------------
 
 > 每周推出一个专题，标题取于web前端内容;     
