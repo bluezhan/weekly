@@ -1,5 +1,5 @@
 
-![logo](https://github.com/bluezhan/weeky/raw/master/docs/img/wlogo.png)
+![logo](https://github.com/bluezhan/weekly/raw/master/docs/img/wlogo.png)
 
 # 《每周一专题》<small>3.27</small>
 
