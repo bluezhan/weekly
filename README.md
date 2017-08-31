@@ -1,6 +1,6 @@
 
 
-![](https://github.com/bluezhan/weeky/raw/master/images/logo.png)
+![](https://github.com/bluezhan/weekly/raw/master/images/logo.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
@@ -26,7 +26,7 @@ H5生态圈（HTML5技术的巨大魅力和潜力）
 一部电影（独特推荐）   
 一本书籍（人类进步的阶梯）  
 
-::: 网站地址：[《每周一专题》](http://bluezhan.me/weeky/#/)    
+::: 网站地址：[《每周一专题》](http://bluezhan.me/weekly/#/)    
 
 * __X月份第X周：__    
   1、web前端    
